@@ -13,7 +13,7 @@ I’m currently learning on Trybe to be a full stack developer.
 
 <div style="display: inline_block"><br>
   <a href="https://htmlreference.io">
-   <img align="center" alt="Ju-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+   <img align="center" alt="Ju-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
      <a href="https://www.w3schools.com/js/js_intro.asp">
       <img align="center" alt="Ju-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <a href="https://css-tricks.com">
