@@ -12,16 +12,11 @@ I’m currently learning on Trybe to be a full stack developer.
 ##
 
 <div style="display: inline_block"><br>
-  <a href="https://htmlreference.io" target="_blank">
-  <img align="center" alt="Ju-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a> 
-  <a href="https://www.w3schools.com/js/js_intro.asp" target="_blank">
-  <img align="center" alt="Ju-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a> 
-  <a href="https://css-tricks.com" target="_blank">
-  <img align="center" alt="Ju-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a> 
-  <a href="https://jestjs.io/pt-BR/docs/using-matchers#números" target="_blank">
-  <img align="center" alt="Ju-Jest" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a> 
-  <a href="https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/" target="_blank">
-  <img align="center" alt="Ju-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a> 
+   <a href="https://htmlreference.io" target="_blank"><img align="center" alt="Ju-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a> 
+   <a href="https://www.w3schools.com/js/js_intro.asp" target="_blank"><img align="center" alt="Ju-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a> 
+   <a href="https://css-tricks.com" target="_blank"><img align="center" alt="Ju-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a> 
+   <a href="https://jestjs.io/pt-BR/docs/using-matchers#números" target="_blank"><img align="center" alt="Ju-Jest" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a> 
+   <a href="https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/" target="_blank"><img align="center" alt="Ju-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a> 
 <div/>
 
  ##
