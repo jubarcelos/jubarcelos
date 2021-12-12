@@ -25,7 +25,7 @@ I’m currently learning on Trybe to be a full stack developer.
  <div> 
  <a href="https://discord.gg/2R5vFrSZ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:julaai@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/julia-barcelos-443b7ab6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/julia-barcelos-443b7ab6/" target="_blank"><img src="https://cdn-images-1.medium.com/fit/t/1600/480/1*4Q47z60ujkYl4w7GAagWow.png" target="_blank"></a>  
 </div>
 
    ![Snake animation](https://github.com/jubarcelos/jubarcelos/blob/output/github-contribution-grid-snake.svg)
