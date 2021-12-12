@@ -15,15 +15,15 @@ I’m currently learning on Trybe to be a full stack developer.
    <a href="https://htmlreference.io" target="_blank"><img align="center" alt="Ju-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a> 
    <a href="https://www.w3schools.com/js/js_intro.asp" target="_blank"><img align="center" alt="Ju-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a> 
    <a href="https://css-tricks.com" target="_blank"><img align="center" alt="Ju-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a> 
+   <a href="https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/" target="_blank"><img align="center" alt="Ju-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>   
    <a href="https://jestjs.io/pt-BR/docs/using-matchers#números" target="_blank"><img align="center" alt="Ju-Jest" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a> 
-   <a href="https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/" target="_blank"><img align="center" alt="Ju-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a> 
- <a href="https://v5.reactrouter.com/web/guides/quick-start" target="_blank"><img align="center" alt="Ju-Reac-Router-domt" height="30" width="50" src="https://scriptverse.academy/img/tutorials/react-router.png"></a> 
+   <a href="https://v5.reactrouter.com/web/guides/quick-start" target="_blank"><img align="center" alt="Ju-Reac-Router-domt" height="30" width="50" src="https://scriptverse.academy/img/tutorials/react-router.png"></a> 
 <div/>
 
  ##
  
  <div> 
- <a href="https://discord.gg/2R5vFrSZ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.gg/2R5vFrSZ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:julaai@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/julia-barcelos-443b7ab6/" target="_blank"><img src="https://cdn-images-1.medium.com/fit/t/1600/480/1*4Q47z60ujkYl4w7GAagWow.png" target="_blank"></a>  
 </div>
