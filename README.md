@@ -17,7 +17,7 @@ I’m currently learning on Trybe to be a full stack developer.
    <a href="https://css-tricks.com" target="_blank"><img align="center" alt="Ju-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a> 
    <a href="https://jestjs.io/pt-BR/docs/using-matchers#números" target="_blank"><img align="center" alt="Ju-Jest" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a> 
    <a href="https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/" target="_blank"><img align="center" alt="Ju-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a> 
- <a href="https://v5.reactrouter.com/web/guides/quick-start" target="_blank"><img align="center" alt="Ju-Reac-Router-domt" height="30" width="40" src="https://scriptverse.academy/img/tutorials/react-router.png"></a> 
+ <a href="https://v5.reactrouter.com/web/guides/quick-start" target="_blank"><img align="center" alt="Ju-Reac-Router-domt" height="30" width="50" src="https://scriptverse.academy/img/tutorials/react-router.png"></a> 
 <div/>
 
  ##
