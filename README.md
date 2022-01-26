@@ -19,6 +19,9 @@ I’m currently learning on Trybe to be a full stack developer.
    <a href="https://jestjs.io/pt-BR/docs/using-matchers#números" target="_blank"><img align="center" alt="Ju-Jest" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a> 
    <a href="https://v5.reactrouter.com/web/guides/quick-start" target="_blank"><img align="center" alt="Ju-Reac-Router-domt" height="30" width="50" src="https://scriptverse.academy/img/tutorials/react-router.png"></a> 
  <a href="https://redux.js.org/" target="_blank"><img align="center" alt="JuRedux" height="30" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"></a> 
+ <a href="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" target="_blank"><img align="center" alt="JuContextAPI" height="30" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgPvfW957SPqfU-bFIJw60Tn64khicf_DpbA&usqp=CAU"></a> 
+ <a href="https://pt-br.reactjs.org/docs/hooks-intro.html" target="_blank"><img align="center" alt="Juhook" height="30" width="50" src="https://miro.medium.com/max/768/1*0j4xd4B_o-jxiaM9QYqgWw.png"></a> 
+<div/>
 <div/>
 
  ##
