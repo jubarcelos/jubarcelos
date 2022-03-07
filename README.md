@@ -28,7 +28,7 @@ I’m currently learning on Trybe to be a full stack developer.
  
  <div> 
   <a href="http://discord.com/users/887730660847013918" target="_blank"><img src="https://www.svgrepo.com/show/331368/discord-v2.svg" width="30" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/julia-barcelos-443b7ab6/" target="_blank"><img src="https://www.svgrepo.com/show/9911/linkedin.svg" width="30"></a>  
+  <a href="www.linkedin.com/in/barcelos-julia" target="_blank"><img src="https://www.svgrepo.com/show/9911/linkedin.svg" width="30"></a>  
 </div>
 
    ![Snake animation](https://github.com/jubarcelos/jubarcelos/blob/output/github-contribution-grid-snake.svg)
