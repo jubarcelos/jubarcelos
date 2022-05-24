@@ -1,5 +1,5 @@
 ### Hi Guys 👋 
-I’m currently learning on Trybe to be a full stack developer.
+I’m a full stack developer.
 ❤️ I practice beach tennis and I really like board games, so you can talk with me about that two things.
 ⚡ Iteresting fact: I'm a chemist too and worked for long time on pharmacy industry.
  ##
