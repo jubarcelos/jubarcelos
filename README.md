@@ -25,6 +25,7 @@ I’m a full stack developer.
  <a href="https://docs.docker.com" target="_blank"><img align="center" alt="Ju-Docker" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"></a>
  <a href="https://www.mysql.com/support/supportedplatforms/database.html" target="_blank"> <img align="center" alt="Ju-Msql" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"></a>
   <a href="https://nodejs.org/en/docs/" target="_blank"><img align="center" alt="Ju-Node" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"></a>
+ <a href="https://www.typescriptlang.org/docs/" target="_blank"><img align="center" alt="Ju-TypeScript" height="40" width="40" src="https://img.icons8.com/color/72/typescript.png"></a>
 <div/>
 <div/>
 
