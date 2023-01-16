@@ -26,7 +26,8 @@ I’m a full stack developer.
  <a href="https://www.mysql.com/support/supportedplatforms/database.html" target="_blank"> <img align="center" alt="Ju-Msql" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"></a>
   <a href="https://nodejs.org/en/docs/" target="_blank"><img align="center" alt="Ju-Node" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"></a>
  <a href="https://www.typescriptlang.org/docs/" target="_blank"><img align="center" alt="Ju-TypeScript" height="40" width="40" src="https://img.icons8.com/color/72/typescript.png"></a>
- <a href="https://docs.nestjs.com/" target="_blank"><img align="center" alt="Ju-Nest" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1242px-NestJS.svg.png?20221211225055"></a>
+ <a href="https://docs.nestjs.com/" target="_blank"><img align="center" alt="Ju-Nest" height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1242px-NestJS.svg.png?20221211225055"></a>
+ <a href="https://www.postgresql.org/docs/" target="_blank"><img align="center" alt="Ju-Postgres" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1080px-Postgresql_elephant.svg.png?20080116191800"></a>
 <div/>
 <div/>
 
