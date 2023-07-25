@@ -28,7 +28,8 @@ I’m a full stack developer.
  <a href="https://www.typescriptlang.org/docs/" target="_blank"><img align="center" alt="Ju-TypeScript" height="40" width="40" src="https://img.icons8.com/color/72/typescript.png"></a>
  <a href="https://docs.nestjs.com/" target="_blank"><img align="center" alt="Ju-Nest" height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1242px-NestJS.svg.png?20221211225055"></a>
  <a href="https://www.postgresql.org/docs/" target="_blank"><img align="center" alt="Ju-Postgres" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1080px-Postgresql_elephant.svg.png?20080116191800"></a>
-<div/>
+ <a href="https://www.postgresql.org/docs/" target="_blank"><img align="center" alt="Ju-MongoDB" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:1024/format:webp/1*doAg1_fMQKWFoub-6gwUiQ.png"></a>
+ <a href="https://developer.hashicorp.com/terraform?product_intent=terraform" target="_blank"><img align="center" alt="Ju-Terraform" height="30" width="40" src="https://www.svgrepo.com/show/376353/terraform.svg"></a><div/>
 <div/>
 
  ##
